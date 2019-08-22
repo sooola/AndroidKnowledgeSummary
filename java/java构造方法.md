@@ -8,8 +8,6 @@
 
 下面是一个带构造器的简单类
 
-``
-
 ```java
 public class Apple {  
     Apple(){        
@@ -24,8 +22,6 @@ public class Apple {
 
 不接受任何参数的构造器叫做默认构造器，通常称为无参构造器，构造器也可以带参数，如下
 
-``
-
 ```java
 public class Apple {    
     Apple(int i){        
@@ -38,3 +34,4 @@ public class Apple {
 
 构造器有助与减少错误，并使代码更易于阅读。
 
+构造器是一种特殊类型的方法，因为它没有返回值。
