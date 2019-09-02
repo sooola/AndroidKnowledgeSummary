@@ -1,0 +1,7 @@
+### android四种启动模式
+
+standard：每启动一个新的activity，它就会在返回栈中入栈，并处于栈顶的位置。
+singleTop：栈顶复用模式，如果新activity已经位于任务栈的栈顶，那么此activity不会被重新创建，同时它的onNewIntent方法会被调用，如果不是则仍会创建。
+singleTask：栈内复用模式，这是一种单例模式，只要activity在一个栈内存在，那么多次启动此activity都不会被重新创建实例，会调用onNewIntent，并把次activity上的所有activity出栈。
+singleInstance：启动一个新的返回栈来管理这个activity，这个返回栈只有这个实例，不允许有别的activity存在。
+
