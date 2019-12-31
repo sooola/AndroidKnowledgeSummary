@@ -9,9 +9,14 @@
 
 
 ## Android
+
+
 [android四种启动模式](https://github.com/sooola/AndroidKnowledgeSummary/blob/master/Android/android%E5%9B%9B%E7%A7%8D%E5%90%AF%E5%8A%A8%E6%A8%A1%E5%BC%8F.md)  
 [android存储数据方式](https://github.com/sooola/AndroidKnowledgeSummary/blob/master/Android/android%E5%AD%98%E5%82%A8%E6%95%B0%E6%8D%AE%E6%96%B9%E5%BC%8F.md)
 
 
+
+### Android Studio
+[Android Studio Debug调试技巧](https://www.jianshu.com/p/7f20fef9c4c2)  
   
-  
+[Android Studio打造自己的Live Templates](https://www.jianshu.com/p/3dac8317c687)  
